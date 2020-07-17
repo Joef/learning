@@ -1,4 +1,17 @@
-# Why Use Typescript?
+# Typescript
+
+<!-- toc -->
+
++ [Why Use Typescript?](#why-use-typescript)
++ [Flexible Options](#flexible-options)
++ [Syntax, Keywords and Operators](#syntax-keywords-and-operators)
++ [Code Hierarchy](#code-hierarchy)
++ [Compiler](#compiler)
++ [Tooling/Framework Options](#toolingframework-options)
+
+<!-- tocstop -->
+
+##  Why Use Typescript?
 
 - JavaScript can feel messy! See “Structuring JavaScript Code” on Pluralsight
 - We want maintainable code
@@ -51,6 +64,10 @@
 Outputs javascript from typescript file.
 
     npm install -g typescript
+
+In order to build a project/directory
+
+    tsc -p tsconfig.json
 
 ## Tooling/Framework Options
 

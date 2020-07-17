@@ -12,7 +12,8 @@
   },
   "devDependencies": {},
   "scripts": {
-    "start": "docsify serve ./docs",
+    "start": "docsify serve ./docs -p 3001 -o",
+    "markdown:toc": "markdown-toc -i docs/typescript.md --bullets '+'",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {

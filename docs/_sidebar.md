@@ -1,6 +1,13 @@
 - [Home](/)
-
-- [Typescript](typescript.md)
+- **General**
+  - [Git](git.md)
+  - [Docker](docker.md)
+  - [Typescript](typescript.md)
+  - Development
+    - [Board](development/board.md)
+    - [Branching](development/branch.md)
+    - [Kanban](development/kanban.md)
+    - [Sprints](development/sprints.md)
 - **ReactJS**
   - Courses
     - [Getting Started](react/getting-started.md)
